@@ -72,12 +72,16 @@ It is centered, has a specific width and height to the page.  */
     padding: 20px;
 
     height: 80%;}
+.pagetitle{ width: 100%;
+    border-bottom: 2px solid gray;
+    margin-bottom: 20px;
+}
     
  .project-name {
      padding: 1px;
      background-color: #4aaaa5;
      width: 200px;
-     bottom: 20px;
+     left: 10px;
      text-align: center;
   
      position: relative;
